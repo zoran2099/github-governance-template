@@ -38,6 +38,10 @@ pip install gitlint
 
 https://github.com/gittower/git-flow-next
 
+### Git Hub
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions
+
 ## Convenção recomendada de merge
 
 - `squash merge`
