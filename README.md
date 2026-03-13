@@ -34,6 +34,10 @@ npm install
 pip install gitlint
 ```
 
+### Git Workflow
+
+https://github.com/gittower/git-flow-next
+
 ## Convenção recomendada de merge
 
 - `squash merge`
