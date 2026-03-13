@@ -1,0 +1,12 @@
+# Regra base: usar defaults do Gitleaks e manter allowlist mínima e auditável.
+# Adicione allowlists apenas com justificativa.
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Arquivos de exemplo permitidos"
+paths = [
+  '''src/test/resources/.*''',
+  '''docs/examples/.*'''
+]

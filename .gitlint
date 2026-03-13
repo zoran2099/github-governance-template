@@ -1,0 +1,15 @@
+[general]
+ignore=body-is-missing,body-min-length
+contrib=CC1
+
+[title-max-length]
+line-length=100
+
+[title-match-regex]
+regex=^(feat|fix|docs|style|refactor|test|build|ci|chore|perf|revert|hotfix|security)(\([a-z0-9._\-/]+\))?(!)?: .+
+
+[body-max-line-length]
+line-length=120
+
+[body-first-line-empty]
+enabled=true

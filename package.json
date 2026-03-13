@@ -1,0 +1,21 @@
+{
+  "name": "springboot-governance-template",
+  "private": true,
+  "version": "0.0.0-development",
+  "description": "Tooling local para commitlint e semantic-release",
+  "scripts": {
+    "commitlint": "commitlint --edit",
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^13.0.1",
+    "@semantic-release/exec": "^7.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^12.0.1",
+    "@semantic-release/release-notes-generator": "^14.1.0",
+    "semantic-release": "^24.2.8"
+  }
+}

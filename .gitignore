@@ -1,0 +1,28 @@
+# Java
+/target/
+*.class
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Others
+.env
+*.swp
