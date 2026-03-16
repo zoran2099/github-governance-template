@@ -1,4 +1,4 @@
-# Template de Governança de Commits e Releases para Java/Spring Boot
+# Template de Governança de Commits e Releases 
 
 Este template inclui:
 
