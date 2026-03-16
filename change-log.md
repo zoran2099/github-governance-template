@@ -1,0 +1,3 @@
+
+npm install -D @commitlint/cli @commitlint/config-conventional
+
