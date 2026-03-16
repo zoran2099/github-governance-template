@@ -9,3 +9,6 @@ npx husky install
 echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 
 ---
+
+npm install --save-dev @commitlint/cz-commitlint
+
